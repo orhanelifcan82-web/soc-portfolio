@@ -13,6 +13,8 @@ focusing on **how I investigate**, not just what I found.
 |---|-----|-------|--------------|
 | 01 | [VPN Failed Login Investigation](01-elastic-vpn-investigation/) | Elastic Stack (Kibana), KQL | Log filtering, time scoping, visualisation, analyst reasoning |
 | 02 | [L1 Alert Triage Report](02-alert-triage-report/) | Report template | Alert classification, escalation decisions, reporting |
+| 03 | [Gloucester City Council Ransomware Case Study](03-gloucester-ransomware-case-study/) | Public incident reports, MITRE ATT&CK | Incident analysis, attack timeline, ATT&CK mapping, threat actor attribution, lessons learned |
+| 04 | [Incident Response Plan: LEA Biotech (fictional)](04-incident-response-plan/) | IR lifecycle | Incident classification and escalation, roles, UK GDPR/ICO reporting, access control, response checklist |
 
 *New investigations are added as I progress through the TryHackMe SOC Level 1 path.*
 
