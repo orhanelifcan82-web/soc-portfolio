@@ -54,6 +54,9 @@ My mapping, based on the steps described in public sources:
 - **Motivation:** Financial (ransom and double extortion), but the UK government said the group was highly likely linked to Russian intelligence. This shows that the line between cyber criminals and state-backed attackers can be blurred.
 - **What happened to them:** In 2023, the UK and US sanctioned and charged several Russian members of the Conti/TrickBot group. Most have not been arrested, because Russia does not extradite its citizens. After the group shut down, former members are believed to have joined other ransomware groups.
 
+### Could the ransom be a smokescreen?
+Because of the possible links to Russian intelligence, I wondered if the ransom demand could hide another goal. This happened in the NotPetya attack (2017), which looked like ransomware but was actually designed to destroy data. In Gloucester's case there is no clear evidence of this, because the backups worked and the data was not destroyed. However, it is an interesting question for threat intelligence: a group linked to a state could make money from a ransom and, at the same time, serve state goals by disrupting public services or collecting data.
+
 ### Was it a planned attack?
 Yes. The attackers waited for the right moment in a real conversation, stayed hidden for a month, stole data before encrypting it and launched the attack when nobody was watching. However, this was not a one-off "genius" plan. It followed a standard ransomware playbook used against many organisations. Because attacks follow patterns, they can be detected with the right monitoring.
 
