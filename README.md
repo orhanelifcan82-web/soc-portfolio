@@ -18,16 +18,22 @@ focusing on **how I investigate**, not just what I found.
 
 *New investigations are added as I progress through the TryHackMe SOC Level 1 path.*
 
+## Training and badges
+
+| # | Course | Platform | Skills shown |
+|---|--------|----------|--------------|
+| 05 | [Linux Command Line](05-linux-command-line/) (digital badge, November 2026) | Immersive Labs | File system navigation, find and grep, text processing, file permissions, sudo/su, SSH/SCP, file hashing |
+
 ## Skills
 
 - **Security operations:** L1 alert triage and reporting, escalation, SIEM fundamentals, EDR fundamentals
 - **SIEM:** Elastic Stack / Kibana (KQL, filters, visualisations, dashboards), Splunk (log searches)
 - **Frameworks and threat intelligence:** Cyber Kill Chain, threat intelligence tools, malware classification basics
-- **Systems:** Linux command line, Windows OS, basic networking
+- **Systems:** Linux command line (find, grep, sed, file permissions, sudo/su, SSH/SCP, file hashing), Windows OS, basic networking
 
 ## About these write-ups
 
-These labs come from training platforms such as TryHackMe. In line with platform rules, I do **not**
+These labs come from training platforms such as TryHackMe and Immersive Labs. In line with platform rules, I do **not**
 publish room answers or flags. Each write-up explains my methodology, the queries and filters I used,
 and how I would act on the result as a SOC analyst.
 
